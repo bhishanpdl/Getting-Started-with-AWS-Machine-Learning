@@ -9,3 +9,7 @@
 - Build a text classification model with Glue and Sagemaker
 - Quiz 7
 
+# Quiz 5
+![](5.1.png)
+![](5.2.png)
+
